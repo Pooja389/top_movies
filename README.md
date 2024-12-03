@@ -25,3 +25,10 @@ A Python script that scrapes movie titles from a webpage and displays them in re
 Install the required libraries using:
 ```bash
 pip install bs4
+
+## How to Run the Script
+Clone or download the repository.
+Open the script in your Python IDE or text editor.
+Run the script:
+```bash
+python movies.py
