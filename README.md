@@ -15,6 +15,7 @@ A Python script that scrapes movie titles from a webpage and displays them in re
 3. **Reverses the List**:
    - Displays the movies in reverse order, from the lowest-ranked to the highest-ranked.
 
+
 ## Requirements
 
 - Python 3.x
@@ -26,9 +27,3 @@ Install the required libraries using:
 ```bash
 pip install bs4
 
-## How to Run the Script
-Clone or download the repository.
-Open the script in your Python IDE or text editor.
-Run the script:
-```bash
-python movies.py
